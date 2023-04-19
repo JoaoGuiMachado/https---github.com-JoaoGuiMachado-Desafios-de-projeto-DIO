@@ -1,4 +1,4 @@
-package desafioDioPoo
+package desafioDioPoo;
 
 public class desafioDioPoo {
     
