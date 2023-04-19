@@ -42,7 +42,9 @@ public class Main {
         devJoao.progredir();
         System.out.println("-");
         System.out.println("Conteúdos inscritos: " + devJoao.getConteudosInscritos());
+        devJoao.progredir();
         System.out.println("Conteúdos concluídos: " + devJoao.getConteudosConcluidos());
+        System.out.println("XP: " + devJoao.calcularTotalXP());
 
         System.out.println("----------------------------------------------------");
 
@@ -54,6 +56,8 @@ public class Main {
         System.out.println("-");
         System.out.println("Conteúdos inscritos: " + devCamila.getConteudosInscritos());
         System.out.println("Conteúdos concluídos: " + devCamila.getConteudosConcluidos());
+        System.out.println("XP: " + devCamila.calcularTotalXP());
+
 
 
 
